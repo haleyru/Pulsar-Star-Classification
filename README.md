@@ -1,4 +1,4 @@
-# Pulsar-Star-Classification
+# Pulsar Star Classification
 
 <img src="https://media3.giphy.com/media/l3dj5M4YLaFww31V6/giphy.gif" width = "600"/>
 
